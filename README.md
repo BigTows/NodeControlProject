@@ -1,4 +1,4 @@
-# NCP - Node Control Projects
+# NCP - Node Control Projects [Download Mac](http://my-files.ru/apn4ik).
 ### Description
 With this application you can control many of their projects Node.js
 
@@ -25,6 +25,6 @@ NCP uses a number of open source projects to work properly:
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v6+ to run.
+NCP requires [Node.js](https://nodejs.org/) v6+ to run.
 
-Download ###TODO.
+[Download Mac](http://my-files.ru/apn4ik).
