@@ -5,7 +5,7 @@ With this application you can control many of their projects Node.js
 ### Demo
 - version: 1.0.0 BETA v2
 
-![Demo version: 1.0.0 BETA v1](http://194.87.239.206/media/demo/1.0.0 Beta v2.gif)
+![Demo version: 1.0.0 BETA v1](http://194.87.239.206/media/demo/1.0.0%20Beta%20v2.gif)
 
 ### Functions
  - add Project
