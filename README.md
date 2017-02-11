@@ -1,11 +1,11 @@
-# NCP - Node Control Projects [Download Mac](http://194.87.239.206/media/application/ncp.version.1.0.1.BETAv1mac.zip).
+# NCP - Node Control Projects [Download Mac](http://194.87.239.206/media/application/1.0.0 Beta v2.zip).
 ### Description
 With this application you can control many of their projects Node.js
 
 ### Demo
 - version: 1.0.0 BETA v2
 
-![Demo version: 1.0.0 BETA v1](http://194.87.239.206/media/demo/Demo%20version%201.0.0%20BETA%20v1.gif)
+![Demo version: 1.0.0 BETA v1](http://194.87.239.206/media/demo/1.0.0 Beta v2.gif)
 
 ### Functions
  - add Project
@@ -27,4 +27,4 @@ NCP uses a number of open source projects to work properly:
 
 NCP requires [Node.js](https://nodejs.org/) v6+ to run.
 
-[Download Mac](http://194.87.239.206/media/application/ncp.version.1.0.1.BETAv1mac.zip).
+[Download Mac](http://194.87.239.206/media/application/1.0.0 Beta v2.zip).
